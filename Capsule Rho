@@ -20,6 +20,13 @@
         "Imgur": "/proxy/api/imgur/chapter/AjGFMPI/"
       },
       "last_updated": "1626710400"
-    }
+    },
+     "03": {
+      "title": "ROUND 7 - Grand Battle",
+      "volume": "1",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/OHqTCZK/"
+      },
+      "last_updated": "1629348085"
   }
 }
