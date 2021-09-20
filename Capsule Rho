@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/0sOQ8kq.png",
   "chapters": {
     "01": {
-      "title": "Intro",
+      "title": "INTRO",
       "volume": "1",
       "groups": {
         "Imgur": "/proxy/api/imgur/chapter/yfqR9EW/"
@@ -14,7 +14,7 @@
       "last_updated": "1625932800"
     },
      "02": {
-      "title": "RHO VS. AMOR",
+      "title": "ROUND 6 - RHO VS. AMOR",
       "volume": "1",
       "groups": {
         "Imgur": "/proxy/api/imgur/chapter/AjGFMPI/"
@@ -22,7 +22,7 @@
       "last_updated": "1626710400"
     },
      "03": {
-      "title": "ROUND 7 - Grand Battle",
+      "title": "ROUND 7 - GRAND BATTLE",
       "volume": "1",
       "groups": {
         "Imgur": "/proxy/api/imgur/chapter/OHqTCZK/"
