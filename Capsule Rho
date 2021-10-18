@@ -5,40 +5,40 @@
   "author": "Capsule",
   "cover": "https://i.imgur.com/0sOQ8kq.png",
   "chapters": {
-    "INTRO": {
-      "title": "The Cursed Treasure Hunter",
+    "01": {
+      "title": "INTRO - THE CURSED TREASURE HUNTER",
       "volume": "1",
       "groups": {
         "Imgur": "/proxy/api/imgur/chapter/yfqR9EW/"
       },
       "last_updated": "1625932800"
     },
-     "ROUND 6": {
-      "title": "RHO VS. AMOR",
+     "02": {
+      "title": "ROUND 6 - RHO VS. AMOR",
       "volume": "1",
       "groups": {
         "Imgur": "/proxy/api/imgur/chapter/AjGFMPI/"
       },
       "last_updated": "1626710400"
     },
-     "ROUND 7": {
-      "title": "A QUICK REST",
+     "03": {
+      "title": "ROUND 7 - A QUICK REST",
       "volume": "1",
       "groups": {
         "Imgur": "/proxy/api/imgur/chapter/OHqTCZK/"
       },
       "last_updated": "1629348085"
     },
-     "ROUND 8": {
-      "title": "RHO VS. BRICKMANCER",
+     "04": {
+      "title": "ROUND 8 - RHO VS. BRICKMANCER",
       "volume": "1",
       "groups": {
         "Imgur": "/proxy/api/imgur/chapter/sfhUMBQ/"
       },
       "last_updated": "1632153325"
     },
-     "ROUND 8.5": {
-      "title": "REBUILDING",
+     "05": {
+      "title": "ROUND 8.5 - REBUILDING",
       "volume": "1",
       "groups": {
         "Imgur": "/proxy/api/imgur/chapter/ksXBGT4/"
