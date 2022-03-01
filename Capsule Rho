@@ -6,6 +6,14 @@
   "cover": "https://i.imgur.com/0sOQ8kq.png",
   "chapters": {
     "01": {
+      "title": "CHARACTER SHEET",
+      "volume": "2",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/6aK0W7Q/"
+      },
+      "last_updated": "1625932800"
+    },
+    "02": {
       "title": "INTRO - THE CURSED TREASURE HUNTER",
       "volume": "2",
       "groups": {
@@ -13,7 +21,7 @@
       },
       "last_updated": "1625932800"
     },
-     "02": {
+     "03": {
       "title": "ROUND 6 - RHO VS. AMOR",
       "volume": "1",
       "groups": {
@@ -21,7 +29,7 @@
       },
       "last_updated": "1626710400"
     },
-     "03": {
+     "04": {
       "title": "ROUND 7 - A QUICK REST",
       "volume": "1",
       "groups": {
@@ -29,7 +37,7 @@
       },
       "last_updated": "1629348085"
     },
-     "04": {
+     "05": {
       "title": "ROUND 8 - RHO VS. BRICKMANCER",
       "volume": "1",
       "groups": {
@@ -37,7 +45,7 @@
       },
       "last_updated": "1632153325"
     },
-     "05": {
+     "06": {
       "title": "ROUND 8.5 - REBUILDING",
       "volume": "1",
       "groups": {
@@ -45,7 +53,7 @@
       },
       "last_updated": "1634524985"
     },
-     "06": {
+     "07": {
       "title": "ROUND 9 - RHO & THE HOST VS. TATTERS & ELSA BEE",
       "volume": "1",
       "groups": {
@@ -53,7 +61,7 @@
       },
       "last_updated": "1637125200"
     },
-     "07": {
+     "08": {
       "title": "EPILOGUE - ONE FINAL STATEMENT",
       "volume": "1",
       "groups": {
